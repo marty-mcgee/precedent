@@ -22,12 +22,12 @@ export default function NavBar() {
           <Link href="/" className="flex items-center font-display text-2xl">
             <Image
               src="/logo.png"
-              alt="Precedent logo"
+              alt="ThreeD Garden logo"
               width="30"
               height="30"
               className="mr-2 rounded-sm"
             ></Image>
-            <p>Precedent</p>
+            <p>ThreeD Garden</p>
           </Link>
           <SignedOut>
             <SignInButton mode="modal">

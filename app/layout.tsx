@@ -8,10 +8,10 @@ import Navbar from "@/components/layout/navbar";
 import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata = {
-  title: "Precedent - Building blocks for your Next.js project",
+  title: "ThreeD Garden - Building blocks for your Next.js project",
   description:
-    "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
-  metadataBase: new URL("https://precedent.dev"),
+    "ThreeD Garden is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
+  metadataBase: new URL("https://threedgarden.com"),
 };
 
 export default async function RootLayout({
